@@ -1,0 +1,10 @@
+; Engine configuration file.
+; Minimal project so `godot --headless --script run_tests.gd` works after cloning.
+
+config_version=5
+
+[application]
+
+config/name="Idle Number Kit Lite"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon=""
