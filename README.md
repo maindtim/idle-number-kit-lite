@@ -50,6 +50,18 @@ demo:
 
 **[Idle Economy Kit on itch.io — $4.99](https://cesarlars.itch.io/idle-economy-kit)**
 
+## Feedback wanted
+
+Open question, and the honest reason it's here: this addon has had a handful
+of visitors and almost no way to tell what any of them needed.
+
+**What is the smallest Godot 4 utility you keep rewriting by hand?**
+
+Answer in [Discussions](https://github.com/maindtim/idle-number-kit-lite/discussions)
+and it goes on the list. Bugs and missing formats go in Issues. Both get an
+answer, and the next lite addon comes from that list rather than from
+guessing.
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Use it in anything, commercial or not.
